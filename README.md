@@ -1,2 +1,4 @@
 # vova.ek.github.io
-Testing EK
+Test files used to validate publishing pipelines.
+
+- **HTML artifact**: [`normalized.html`](./normalized.html)
